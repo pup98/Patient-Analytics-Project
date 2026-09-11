@@ -1,0 +1,6 @@
+payer_id,payer_name
+PYHP1,Medicare
+PYHP2,Medicaid
+PYHP3,HDFCArgo
+PYHP4,OntarioMedicaid
+PYHP5,Uninsured

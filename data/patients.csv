@@ -1,0 +1,301 @@
+patient_id,age,gender,disease
+P001,58,M,Diabetes
+P002,35,M,Diabetes
+P003,65,M,Cardiology
+P004,75,M,Cardiology
+P005,20,M,Diabetes
+P006,32,M,Cardiology
+P007,63,F,Diabetes
+P008,55,F,Rare Disease
+P009,18,M,Cardiology
+P010,39,F,Diabetes
+P011,79,F,Diabetes
+P012,42,M,Oncology
+P013,40,F,Rare Disease
+P014,64,F,Cardiology
+P015,80,F,Diabetes
+P016,36,F,Cardiology
+P017,63,M,Diabetes
+P018,32,F,Neurology
+P019,72,M,Neurology
+P020,42,F,Cardiology
+P021,71,F,Diabetes
+P022,40,M,Cardiology
+P023,62,M,Cardiology
+P024,28,M,Diabetes
+P025,42,F,Neurology
+P026,58,M,Cardiology
+P027,71,M,Diabetes
+P028,20,F,Oncology
+P029,22,M,Neurology
+P030,54,F,Diabetes
+P031,49,F,Neurology
+P032,59,F,Diabetes
+P033,26,M,Rare Disease
+P034,52,F,Rare Disease
+P035,45,F,Oncology
+P036,26,F,Diabetes
+P037,21,M,Diabetes
+P038,28,F,Urology
+P039,42,F,Cardiology
+P040,47,F,Neurology
+P041,73,M,Cardiology
+P042,25,F,Rare Disease
+P043,39,M,Oncology
+P044,28,F,Diabetes
+P045,64,F,Neurology
+P046,66,M,Cardiology
+P047,24,F,Rare Disease
+P048,50,M,Diabetes
+P049,66,M,Cardiology
+P050,67,M,Cardiology
+P051,49,M,Diabetes
+P052,41,F,Diabetes
+P053,33,M,Diabetes
+P054,49,M,Neurology
+P055,52,M,Diabetes
+P056,48,M,Oncology
+P057,73,F,Neurology
+P058,77,M,Rare Disease
+P059,43,F,Oncology
+P060,51,F,Diabetes
+P061,32,M,Oncology
+P062,55,M,Cardiology
+P063,18,M,Rare Disease
+P064,21,M,Diabetes
+P065,20,F,Diabetes
+P066,33,F,Cardiology
+P067,31,M,Rare Disease
+P068,74,F,Diabetes
+P069,48,F,Diabetes
+P070,24,F,Oncology
+P071,44,F,Neurology
+P072,21,M,Diabetes
+P073,64,F,Rare Disease
+P074,24,M,Diabetes
+P075,52,F,Diabetes
+P076,29,F,Cardiology
+P077,73,M,Oncology
+P078,73,M,Diabetes
+P079,52,M,Neurology
+P080,77,M,Diabetes
+P081,49,F,Diabetes
+P082,43,M,Diabetes
+P083,18,F,Urology
+P084,68,F,Oncology
+P085,62,F,Diabetes
+P086,36,M,Neurology
+P087,55,M,Rare Disease
+P088,21,M,Cardiology
+P089,50,M,Diabetes
+P090,50,M,Neurology
+P091,22,M,Cardiology
+P092,33,F,Diabetes
+P093,74,M,Cardiology
+P094,20,M,Oncology
+P095,55,F,Neurology
+P096,31,F,Diabetes
+P097,43,M,Cardiology
+P098,37,F,Oncology
+P099,66,M,Diabetes
+P100,57,M,Diabetes
+P101,31,F,Diabetes
+P102,40,M,Neurology
+P103,41,F,Diabetes
+P104,71,F,Cardiology
+P105,69,M,Cardiology
+P106,53,F,Neurology
+P107,24,M,Oncology
+P108,74,M,Rare Disease
+P109,27,F,Oncology
+P110,31,F,Diabetes
+P111,58,F,Cardiology
+P112,34,M,Diabetes
+P113,45,F,Diabetes
+P114,39,M,Cardiology
+P115,34,M,Rare Disease
+P116,53,F,Cardiology
+P117,25,M,Neurology
+P118,62,M,Cardiology
+P119,71,F,Cardiology
+P120,27,F,Diabetes
+P121,37,F,Neurology
+P122,68,M,Neurology
+P123,31,M,Cardiology
+P124,40,F,Urology
+P125,65,M,Neurology
+P126,33,M,Urology
+P127,69,M,Neurology
+P128,19,M,Rare Disease
+P129,39,F,Rare Disease
+P130,73,M,Oncology
+P131,68,M,Oncology
+P132,20,F,Diabetes
+P133,70,F,Oncology
+P134,70,M,Diabetes
+P135,60,M,Oncology
+P136,35,M,Urology
+P137,35,F,Cardiology
+P138,43,F,Neurology
+P139,25,F,Diabetes
+P140,79,F,Diabetes
+P141,56,F,Oncology
+P142,68,F,Oncology
+P143,80,M,Oncology
+P144,54,M,Oncology
+P145,63,F,Diabetes
+P146,77,M,Oncology
+P147,22,F,Cardiology
+P148,60,M,Rare Disease
+P149,37,F,Cardiology
+P150,38,F,Cardiology
+P151,53,M,Diabetes
+P152,60,F,Cardiology
+P153,75,M,Cardiology
+P154,37,F,Cardiology
+P155,18,F,Oncology
+P156,45,F,Cardiology
+P157,46,M,Cardiology
+P158,68,M,Cardiology
+P159,36,F,Diabetes
+P160,78,M,Cardiology
+P161,32,M,Diabetes
+P162,20,M,Neurology
+P163,57,M,Cardiology
+P164,74,M,Rare Disease
+P165,42,F,Oncology
+P166,27,M,Neurology
+P167,73,M,Rare Disease
+P168,32,M,Rare Disease
+P169,62,F,Diabetes
+P170,33,M,Cardiology
+P171,69,F,Cardiology
+P172,53,F,Neurology
+P173,75,F,Cardiology
+P174,64,F,Rare Disease
+P175,53,F,Neurology
+P176,65,F,Cardiology
+P177,66,M,Rare Disease
+P178,35,F,Cardiology
+P179,35,F,Diabetes
+P180,36,M,Oncology
+P181,38,M,Diabetes
+P182,32,F,Cardiology
+P183,63,M,Diabetes
+P184,44,F,Cardiology
+P185,44,M,Diabetes
+P186,44,F,Neurology
+P187,55,M,Neurology
+P188,66,F,Cardiology
+P189,78,F,Oncology
+P190,42,F,Cardiology
+P191,65,M,Cardiology
+P192,35,F,Cardiology
+P193,42,F,Cardiology
+P194,69,F,Rare Disease
+P195,71,F,Neurology
+P196,80,M,Neurology
+P197,55,M,Diabetes
+P198,45,M,Neurology
+P199,29,M,Oncology
+P200,38,M,Cardiology
+P201,39,F,Oncology
+P202,78,F,Oncology
+P203,23,F,Diabetes
+P204,52,M,Neurology
+P205,40,M,Cardiology
+P206,67,M,Rare Disease
+P207,78,M,Diabetes
+P208,19,M,Diabetes
+P209,48,M,Cardiology
+P210,31,F,Cardiology
+P211,67,F,Diabetes
+P212,56,M,Rare Disease
+P213,28,F,Diabetes
+P214,19,F,Cardiology
+P215,76,F,Oncology
+P216,63,M,Diabetes
+P217,62,M,Diabetes
+P218,67,F,Neurology
+P219,56,M,Rare Disease
+P220,54,M,Oncology
+P221,45,F,Diabetes
+P222,59,F,Diabetes
+P223,44,F,Diabetes
+P224,79,F,Cardiology
+P225,71,F,Rare Disease
+P226,45,M,Rare Disease
+P227,79,F,Cardiology
+P228,76,F,Cardiology
+P229,70,F,Oncology
+P230,33,M,Oncology
+P231,46,M,Rare Disease
+P232,54,F,Oncology
+P233,49,F,Diabetes
+P234,31,F,Rare Disease
+P235,39,F,Neurology
+P236,62,F,Cardiology
+P237,51,M,Diabetes
+P238,64,F,Cardiology
+P239,66,M,Cardiology
+P240,59,F,Oncology
+P241,19,M,Oncology
+P242,43,M,Oncology
+P243,55,F,Cardiology
+P244,51,F,Oncology
+P245,65,F,Oncology
+P246,47,F,Oncology
+P247,32,M,Rare Disease
+P248,38,M,Rare Disease
+P249,78,M,Diabetes
+P250,65,F,Oncology
+P251,55,F,Neurology
+P252,71,M,Oncology
+P253,41,M,Oncology
+P254,63,M,Oncology
+P255,80,M,Cardiology
+P256,62,M,Cardiology
+P257,66,F,Diabetes
+P258,18,F,Cardiology
+P259,46,F,Diabetes
+P260,21,F,Neurology
+P261,48,M,Rare Disease
+P262,43,F,Diabetes
+P263,58,M,Diabetes
+P264,69,F,Diabetes
+P265,33,M,Cardiology
+P266,44,M,Rare Disease
+P267,42,F,Neurology
+P268,37,F,Oncology
+P269,57,M,Cardiology
+P270,65,M,Neurology
+P271,31,M,Oncology
+P272,23,M,Diabetes
+P273,53,M,Diabetes
+P274,44,F,Cardiology
+P275,48,F,Diabetes
+P276,36,F,Rare Disease
+P277,47,M,Cardiology
+P278,77,F,Rare Disease
+P279,58,M,Oncology
+P280,52,M,Cardiology
+P281,76,F,Rare Disease
+P282,22,M,Diabetes
+P283,37,F,Oncology
+P284,47,F,Cardiology
+P285,78,F,Cardiology
+P286,49,F,Diabetes
+P287,20,F,Rare Disease
+P288,56,F,Diabetes
+P289,32,M,Neurology
+P290,61,F,Cardiology
+P291,66,M,Cardiology
+P292,59,F,Neurology
+P293,29,F,Cardiology
+P294,49,M,Cardiology
+P295,44,F,Urology
+P296,24,M,Urology
+P297,62,F,Urology
+P298,78,F,Rare Disease
+P299,53,M,Cardiology
+P300,38,F,Oncology
